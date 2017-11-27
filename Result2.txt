@@ -1,0 +1,21 @@
+java ReadCSV ../experiments/sayak_0_20171108_112904.csv ../experiments/sayak_series_1_20171109_141112.csv 
+Sensor 0: max corr =0.6674248910375338 windowSize=20 match points :5.0 w:67
+Sensor 1: max corr =0.6521395805519604 windowSize=21 match points :9.0 w:93
+Sensor 2: max corr =0.795478685617732 windowSize=21 match points :13.0 w:91
+Sensor 3: max corr =0.8822257834929624 windowSize=20 match points :23.0 w:80
+Sensor 4: max corr =0.9098508591075147 windowSize=24 match points :28.0 w:93
+Sensor 5: max corr =0.8234530580830635 windowSize=20 match points :29.0 w:87
+Sensor 6: max corr =0.7467440957627596 windowSize=32 match points :17.0 w:90
+Sensor 7: max corr =0.8758585496608606 windowSize=26 match points :12.0 w:82
+Sensor Agg: max corr =0.6697972268463854 windowSize=25 match points :4.0 w:65
+94 379
+sayak@sayak-HP-Pavilion-15-Notebook-PC:~/Documents/Myo_Armband/src$ java ReadCSV ../experiments/komail_exp1_p1_4_20171108_121548.csv ../experiments/sayak_series_1_20171109_141112.csv 
+Sensor 0: max corr =0.7053452826225203 windowSize=24 match points :8.0 w:91
+Sensor 1: max corr =0.6409815286183419 windowSize=27 match points :11.0 w:107
+Sensor 2: max corr =0.848504242767358 windowSize=22 match points :18.0 w:123
+Sensor 3: max corr =0.6566831980499978 windowSize=22 match points :25.0 w:126
+Sensor 4: max corr =0.6347512874818795 windowSize=30 match points :18.0 w:128
+Sensor 5: max corr =0.6875211669878204 windowSize=25 match points :19.0 w:130
+Sensor 6: max corr =0.7348337586238777 windowSize=25 match points :10.0 w:127
+Sensor 7: max corr =0.776016017607202 windowSize=21 match points :10.0 w:130
+Sensor Agg: max corr =0.60411210461839 windowSize=20 match points :6.0 w:130
